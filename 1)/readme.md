@@ -1,0 +1,1 @@
+Asal sayı bulma programı.

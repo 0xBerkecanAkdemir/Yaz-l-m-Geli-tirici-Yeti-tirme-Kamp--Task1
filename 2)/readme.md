@@ -1,0 +1,1 @@
+Arkadaş sayılar bulma programı.
